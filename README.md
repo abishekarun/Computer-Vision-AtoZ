@@ -7,7 +7,7 @@ For Object Detection, please download the training weights [here](https://s3.ama
 The script files can be found below
 1. [Face Recognition](https://github.com/abishekarun/Computer-Vision-AtoZ/blob/master/Face_Recognition/face_recognition.py). 
 2. [Object Detection](https://github.com/abishekarun/Computer-Vision-AtoZ/blob/master/Object_Detection/object_detection.py). 
-3. [Image generation](https://github.com/abishekarun/Computer-Vision-AtoZ/blob/master/Image_Generation/dcgan.ipynb). 
+3. [Image generation](https://github.com/abishekarun/Computer-Vision-AtoZ/blob/master/Image_Generation/dcgan.py). 
 
 The resources that helped me are:
 
